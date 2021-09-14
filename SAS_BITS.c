@@ -14,7 +14,7 @@ int invalid_try = 0;
 //current_working_directory
 char cwd[256];
 //legitimate_users_data
-char bits_user[5][20] = {"dev_ravi", "frn_raghu", "ods_tarun", "pbt_roshan", "grl_ritika"};
+char bits_user[5][20] = {"dev_ravi", "frn_raghu", "ods_tarun", "pbt_raushan", "grl_ritika"};
 char bits_pass[5][20] = {"hey", "hi", "not", "hola", "adios"};
 //user_credentials
 char input_username[1][20];

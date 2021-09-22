@@ -1,16 +1,16 @@
 # SAS_BITS-Assignment
 
-GROUP - J
-********
-2020WA86854 || Ravindar Kumar Shahi
-2020WA86476 || Raghavendra Ms
-2020WB86034 || R Tarun Kumar Reddy
-2020WA86981 || Raushan Kumar
-2020WA86320 || Ritika Srivastava 
+|GROUP - J|
+|:---:|:---:|
+|2020WA86854 | Ravindar Kumar Shahi|
+|2020WA86476 | Raghavendra Ms|
+|2020WB86034 | R Tarun Kumar Reddy|
+|2020WA86981 | Raushan Kumar|
+|2020WA86320 | Ritika Srivastava |
 
 
 
-Problem Statement – Set 8 
+__Problem Statement – Set 8 __
 
 A financial organization needs to design a secured authentication system. 
 •	The system should accept the user’s credentials and check if the user is legitimate. 

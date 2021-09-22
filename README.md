@@ -1,7 +1,7 @@
 # SAS_BITS-Assignment
 
 |GROUP - J| |
-|:---:|:---:|
+|:---:|:---|
 |2020WA86854 | Ravindar Kumar Shahi|
 |2020WA86476 | Raghavendra Ms|
 |2020WB86034 | R Tarun Kumar Reddy|

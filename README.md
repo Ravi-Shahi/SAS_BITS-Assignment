@@ -1,6 +1,6 @@
 # SAS_BITS-Assignment
 
-|GROUP - J|
+|GROUP - J| |
 |:---:|:---:|
 |2020WA86854 | Ravindar Kumar Shahi|
 |2020WA86476 | Raghavendra Ms|
